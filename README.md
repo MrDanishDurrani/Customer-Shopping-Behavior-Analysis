@@ -85,8 +85,7 @@ Customer-Shopping-Behavior-Analysis/
 ## 📸 Dashboard Preview
 
 Add your Power BI dashboard screenshot below:
-
-![Customer Shopping Behavior Dashboard](Images/dashboard.png)
+![Customer Shopping Behavior Dashboard](Images/dashboard.jpg)
 
 ## 💡 Key Learnings
 
