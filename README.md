@@ -81,10 +81,10 @@ Customer-Shopping-Behavior-Analysis/
 │   └── dashboard.png
 │
 └── README.md
-
+```
 ## 📸 Dashboard Preview
 
-![Customer Shopping Behavior Dashboard](./Images/dashboard.jpg)
+![Customer Shopping Behavior Dashboard](Images/dashboard.jpg)
 
 ## 💡 Key Learnings
 
